@@ -19,9 +19,9 @@ Useful when you need dense modulation in limited space.
 ## Classic shapes:
 
 ⬤ **TRI**\
-![tri](https://robertheel.com/content/quad_mod/images/waveforms/waveform_triangle.svg)
+![tri](https://robertheel.com/content/quad_mod/images/waveforms/waveform_triangle.svg)\
 ⬤ **SQR**\
-![square](https://robertheel.com/content/quad_mod/images/waveforms/waveform_square.svg)
+![square](https://robertheel.com/content/quad_mod/images/waveforms/waveform_square.svg)\
 ⬤ **SIN**\
 ![sine](https://robertheel.com/content/quad_mod/images/waveforms/waveform_sine.svg)
 
