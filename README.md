@@ -43,6 +43,7 @@ Useful when you need dense modulation in limited space.
 - Fast triangle bursts with pauses.
  ![ratchet_tri](https://robertheel.com/content/quad_mod/images/waveforms/waveform_ratchet_triangle.svg) 
 <br>
+
 ## Cross-Modulation:
 ⬤ **FM**
 - Triangle wave modulated by adjacent LFO.
@@ -50,6 +51,7 @@ Useful when you need dense modulation in limited space.
   - LFO 2 ← modulated by LFO 1
   - LFO 3 ← modulated by LFO 2
   - LFO 4 ← modulated by LFO 3
+  <br>
 
 ⬤ **AM**
 - Sine wave amplitude modulated by adjacent LFO (same routing as FM).
