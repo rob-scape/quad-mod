@@ -1,0 +1,14 @@
+ID;Part;Count;;;;
+;;;;;;
+;;;;;;
+JK1, JK2, JK3, JK4;mono 3.5 mm jack socket THONKICONN  style;4;;;;
+U1, U2, U3, U4;Song Huei / ALPHA 9MM VERTICAL 10K Lin;4;;;;
+P1;0.49 OLED SSD1306;1;;;;
+SW1;E11 Encoder 20mm;1;;;;
+U5;Arduino Nano;1;;;;
+;Female Header 15 pin;2;;;;
+J2;Male Header 2 x 5 pin;1;;;;
+;Jack knurled nuts;4;;;;
+;Enc Nut;1;;;;
+;Enc Washer;1;;;;
+;Enc Cap/ knob;1;;;;
